@@ -2,7 +2,9 @@
 
 I'm a Purdue Computer Science Student focusing on the intersection of Machine Learning and Cybersecurity! In my free time,
 
-I compete in Cybersecurity CTFs, building cyber focused AI projects, and learning everything there is to know about Malware.
+I compete in CTFs, building cyber focused AI projects, and learning everything there is to know about cybersecurity!
+
+At Purdue, I have a concentration in Software Engineering and Cybersecurity with a minor in mathematics. 
 
 ***
 
