@@ -33,8 +33,8 @@ At Purdue, I have a concentration in Software Engineering and Cybersecurity with
 ## Highlight Projects
 
 - Internship Code (https://github.com/DanielProano/Lilypond-Parser)
+- Zero-Knowledge Password Manager (https://github.com/DanielProano/Password-Manager)
 - ChessBot 2.0 with Machine Learning (https://github.com/DanielProano/ChessBot_ML)
-- Secure Login Page with Java GUI (https://github.com/DanielProano/Secure-Login-Page)
 - Common Cryptography Algorithms (https://github.com/DanielProano/Cryptography)
 - Linear Regression from Scratch (https://github.com/DanielProano/Linear_Regression)
 
