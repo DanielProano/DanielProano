@@ -4,18 +4,16 @@ I'm a Purdue Computer Science & Mathematics Student with a concentration in Syst
 
 Engineering and Cybersecurity! I'm a passionate software developer who does full-stack
 
-engineering and reverse engineering of malware and IoT devices. 
+engineering and research in reverse engineering of malware and IoT devices. 
+
+<br>
 
 
-<TAB>I am heavily involved with the software teams for FSAE teams including PER and EVC,
+I have done everything from Computer Vision to embedded design and
 
-where I have done everything from Computer Vision with OpenCV to embedded design and
+testing with STM32s for FSAE to ML Object Detection with 
 
-testing with STM32s. I have also worked with Unmanned Aerial Vehicles with
-
-the PURT research team (https://engineering.purdue.edu/PURT) doing 
-
-Object Detection Machine Learning.
+Unmanned Aerial Vehicles.
 
 ***
 
@@ -24,6 +22,8 @@ Object Detection Machine Learning.
 - Kundalini Software Internship (Summer 25): Worked as a software developer for
 
   a startup based in Akron making symmetric music parsing algorithms
+  
+  <br>
 
 - ChainVisor (Spring 25 & Spring 26): Software Team for a
 
@@ -32,16 +32,22 @@ Object Detection Machine Learning.
   a 2002 Smart Card Reader, Google Home Mini, Baby Monitor, and
 
   a Roomba (https://dannyproano.com/HardwareHacking)
+  
+  <br>
 
 - PURT (Fall 25): Worked on developing Object Detection Machine Learning
 
   Models using YOLOv8 for UAVs (https://dannyproano.com/Purt)
+  
+  <br>
 
 - Electric Vehicle Club (Spring 26): Developed Computer Vision
 
   software for the autonomous team, isolating and masking the road
 
   using OpenCV for edge detection for our autonomous go-kart
+  
+  <br>
 
 - Purdue's Electric Racing (Fall 25 & Spring 26): Worked
 
@@ -49,7 +55,7 @@ Object Detection Machine Learning.
 
   application in Rust for the racecar
 
-  ***
+***
 
 ## Technical Skills
 
@@ -63,6 +69,8 @@ Object Detection Machine Learning.
 
 - **Miscellaneous:** Blender, Maya, Neovim
 
+***
+
 ## Highlight Projects
 
 - Web Portfolio & Research Website (http://dannyproano.com)
@@ -74,6 +82,8 @@ Object Detection Machine Learning.
 - Web Chess GUI and Chess Engine (https://github.com/DanielProano/Chess)
   
 - Internship Code (https://github.com/DanielProano/Lilypond-Parser)
+
+***
 
 ## Classes I have taken
 
@@ -90,6 +100,8 @@ Object Detection Machine Learning.
 - Maya
 - Linear Algebra
 - Calculus III
+
+***
 
 ## CTFs
 
