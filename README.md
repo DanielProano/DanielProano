@@ -16,7 +16,6 @@ and testing with STM32s for FSAE to ML Object Detection with
 
 Unmanned Aerial Vehicles.
 
-***
 
 ## Experience
 
@@ -60,7 +59,6 @@ Unmanned Aerial Vehicles.
 
   application in Rust for the CAN messaging system
 
-***
 
 ## Technical Skills
 
@@ -74,7 +72,6 @@ Unmanned Aerial Vehicles.
 
 - **Miscellaneous:** Blender, Maya, Neovim
 
-***
 
 ## Highlight Projects
 
@@ -90,7 +87,6 @@ Unmanned Aerial Vehicles.
   
 - Internship Code (https://github.com/DanielProano/Lilypond-Parser)
 
-***
 
 ## Classes I have taken
 
@@ -108,7 +104,6 @@ Unmanned Aerial Vehicles.
 - Linear Algebra
 - Calculus III
 
-***
 
 ## CTFs
 
