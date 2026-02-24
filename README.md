@@ -1,17 +1,19 @@
 # Hey, I'm Danny!
 
-I'm a Purdue Computer Science & Mathematics Student with a concentration in Systems
+I'm a Purdue Computer Science & Mathematics Student with a
 
-Engineering and Cybersecurity! I'm a passionate software developer who does full-stack
+concentration in Systems Engineering and Cybersecurity! I'm
 
-engineering and research in reverse engineering of malware and IoT devices. 
+a passionate software developer who does full-stack engineering
+
+and research in reverse engineering of malware and IoT devices. 
 
 <br>
 
 
-I have done everything from Computer Vision to embedded design and
+I have done everything from Computer Vision to embedded design
 
-testing with STM32s for FSAE to ML Object Detection with 
+and testing with STM32s for FSAE to ML Object Detection with 
 
 Unmanned Aerial Vehicles.
 
@@ -19,9 +21,11 @@ Unmanned Aerial Vehicles.
 
 ## Experience
 
-- Kundalini Software Internship (Summer 25): Worked as a software developer for
+- Kundalini Software Internship (Summer 25): Worked as a
 
-  a startup based in Akron making symmetric music parsing algorithms
+  software developer for a startup based in Akron making
+
+  symmetric music parsing algorithms
   
   <br>
 
@@ -35,9 +39,11 @@ Unmanned Aerial Vehicles.
   
   <br>
 
-- PURT (Fall 25): Worked on developing Object Detection Machine Learning
+- PURT (Fall 25): Worked on developing Object Detection
 
-  Models using YOLOv8 for UAVs (https://dannyproano.com/Purt)
+  Machine Learning Models using YOLOv8 for UAVs
+
+  (https://dannyproano.com/Purt)
   
   <br>
 
@@ -51,21 +57,21 @@ Unmanned Aerial Vehicles.
 
 - Purdue's Electric Racing (Fall 25 & Spring 26): Worked
 
-  with the software team on debugging and a data acquisition
+  with the software team on debugging STM32s and a data acquisition
 
-  application in Rust for the racecar
+  application in Rust for the CAN messaging system
 
 ***
 
 ## Technical Skills
 
-- **Languages/Frameworks:** Rust, Python, C, C++, x86, ARM, Java,
+- **Languages/Frameworks:** Rust, Python, C, C++, x86, ARM,
 
-  Bash, React, HTML/CSS/JavaScript, Typescript
+  Java, Bash, React, HTML/CSS/JavaScript, Typescript
 
-- **Tools:** Linux/UNIX, Windows, GCR, AWS, Git, Docker, Nginx,
+- **Tools:** Linux/UNIX, Windows, GCR, AWS, Git, Docker,
 
-  Vite, Wireshark, Ghidra, PyTorch, Pandas, YOLOv8
+  Nginx, Vite, Wireshark, Ghidra, PyTorch, Pandas, YOLOv8
 
 - **Miscellaneous:** Blender, Maya, Neovim
 
@@ -80,6 +86,8 @@ Unmanned Aerial Vehicles.
 - Chess Board State Eval. w/ ML (https://github.com/DanielProano/ChessBot_ML)
   
 - Web Chess GUI and Chess Engine (https://github.com/DanielProano/Chess)
+
+- Enigma Machine (https://github.com/DanielProano/Cryptography)
   
 - Internship Code (https://github.com/DanielProano/Lilypond-Parser)
 
@@ -90,7 +98,7 @@ Unmanned Aerial Vehicles.
 - Java Programming
 - C Programming
 - Foundations of CS
-- DSA
+- Data Structs & Algorithms
 - Analysis of Algorithms
 - Computer Architecture
 - Graphics Programming
