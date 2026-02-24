@@ -10,7 +10,6 @@ and research in reverse engineering of malware and IoT devices.
 
 <br>
 
-
 I have done everything from Computer Vision to embedded design
 
 and testing with STM32s for FSAE to ML Object Detection with 
