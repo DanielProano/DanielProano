@@ -70,9 +70,11 @@ Unmanned Aerial Vehicles.
 
 - **Tools:** Linux/UNIX, Windows, GCR, AWS, Git, Docker,
 
-  Nginx, Vite, Wireshark, Ghidra, PyTorch, Pandas, YOLOv8
+  Nginx, Vite, Wireshark, Ghidra, PyTorch, Pandas, Numpy,
 
-- **Miscellaneous:** Blender, Maya, Neovim
+  YOLOv8, VsCode, Jetbrains, Neovim
+
+- **Miscellaneous:** Blender, Maya
 
 
 ## Highlight Projects
