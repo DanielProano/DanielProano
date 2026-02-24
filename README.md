@@ -2,9 +2,11 @@
 
 I'm a Purdue Computer Science & Mathematics Student with a
 
-concentration in Systems Engineering and Cybersecurity! I'm
+concentration in Systems Engineering and Cybersecurity! 
 
-a passionate software developer who does full-stack engineering
+<br>
+
+I'm a passionate software developer who does full-stack engineering
 
 and research in reverse engineering of malware and IoT devices. 
 
