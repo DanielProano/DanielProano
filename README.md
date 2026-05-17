@@ -21,8 +21,6 @@ I do robotics, embedded development, and security applications
   
 - National Cyber League Fall 2024 ![Screenshot 2024-10-28 095457](https://github.com/user-attachments/assets/2c9caf01-1693-4b48-8ceb-a0f4437f0e79)
 
-- Nahamcon 2025
-
 
 <!---
 DanielProano/DanielProano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
