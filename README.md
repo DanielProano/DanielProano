@@ -13,28 +13,6 @@ I do robotics, embedded development, and security applications
   
 - Web Chess GUI and Chess Engine (https://github.com/DanielProano/Chess)
 
-- Enigma Machine (https://github.com/DanielProano/Cryptography)
-  
-- Internship Code (https://github.com/DanielProano/Lilypond-Parser)
-
-
-## Classes I have taken
-
-- Java Programming
-- C Programming
-- Foundations of CS
-- Data Structs & Algorithms
-- Analysis of Algorithms
-- Computer Architecture
-- Graphics Programming
-- Systems Programming
-- Cryptography
-- Relational Databases
-- Maya
-- Linear Algebra
-- Calculus III
-
-
 ## CTFs
 
 - National Cyber League Team Fall 2025 <img width="1500" height="672" alt="image" src="https://github.com/user-attachments/assets/5da6de7a-cb7e-4907-a958-13660535594c" />
