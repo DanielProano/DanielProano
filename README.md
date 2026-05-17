@@ -1,64 +1,6 @@
-# Overview
+# Danny Proano
 
-CS + Math undergrad at Purdue University (BS)
-
-
-## Experience
-
-- Kundalini Software Internship (Summer 25): Worked as a
-
-  software developer for a startup based in Akron making
-
-  symmetric music parsing algorithms
-  
-  <br>
-
-- ChainVisor (Spring 25 & Spring 26): Software Team for a
-
-  research team dissecting and reverseing IoT devices such as
-
-  a 2002 Smart Card Reader, Google Home Mini, Baby Monitor, and
-
-  a Roomba (https://dannyproano.com/HardwareHacking)
-  
-  <br>
-
-- PURT (Fall 25): Worked on developing Object Detection
-
-  Machine Learning Models using YOLOv8 for UAVs
-
-  (https://dannyproano.com/Purt)
-  
-  <br>
-
-- Electric Vehicle Club (Spring 26): Developed Computer Vision
-
-  software for the autonomous team, isolating and masking the road
-
-  using OpenCV for edge detection for our autonomous go-kart
-  
-  <br>
-
-- Purdue's Electric Racing (Fall 25 & Spring 26): Worked
-
-  with the software team on debugging STM32s and a data acquisition
-
-  application in Rust for the CAN messaging system
-
-
-## Technical Skills
-
-- **Languages/Frameworks:** Rust, Python, C, C++, x86, ARM,
-
-  Java, Bash, React, HTML/CSS/JavaScript, Typescript
-
-- **Tools:** Linux/UNIX, Windows, GCR, AWS, Git, Docker,
-
-  Nginx, Vite, Wireshark, Ghidra, PyTorch, Pandas, Numpy,
-
-  YOLOv8, VsCode, Jetbrains, Neovim
-
-- **Miscellaneous:** Blender, Maya
+I do robotics, embedded development, and security applications
 
 
 ## Highlight Projects
