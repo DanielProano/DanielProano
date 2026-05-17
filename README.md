@@ -2,6 +2,8 @@
 
 I do robotics, embedded development, and security applications.
 
+<br>
+
 Most of my life is spent on the racetrack developing my autonomous racecar,
 
 in the lab dissecting and studying malware, and creating software for
