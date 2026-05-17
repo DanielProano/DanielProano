@@ -1,6 +1,12 @@
-# Danny Proano
+# Hi, I'm Danny
 
-I do robotics, embedded development, and security applications
+I do robotics, embedded development, and security applications.
+
+Most of my life is spent on the racetrack developing my autonomous racecar,
+
+in the lab dissecting and studying malware, and creating software for
+
+rockets & racecar!
 
 
 ## Projects
