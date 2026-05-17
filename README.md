@@ -18,9 +18,6 @@ I do robotics, embedded development, and security applications
 - National Cyber League Team Fall 2025 <img width="1500" height="672" alt="image" src="https://github.com/user-attachments/assets/5da6de7a-cb7e-4907-a958-13660535594c" />
 
 - National Cyber League Spring 2025 ![Screenshot 2025-04-16 012859](https://github.com/user-attachments/assets/3c2d7045-1b2e-4c17-8e8f-54a58e74e645)
-  
-- National Cyber League Fall 2024 ![Screenshot 2024-10-28 095457](https://github.com/user-attachments/assets/2c9caf01-1693-4b48-8ceb-a0f4437f0e79)
-
 
 <!---
 DanielProano/DanielProano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
