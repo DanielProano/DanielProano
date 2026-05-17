@@ -3,13 +3,13 @@
 I do robotics, embedded development, and security applications
 
 
-## Highlight Projects
+## Projects
 
+- Autonomous Racecar
+  
 - Web Portfolio & Research Website (http://dannyproano.com)
   
 - Web Zero-Knowledge Password Manager (https://github.com/DanielProano/Password)
-  
-- Chess Board State Eval. w/ ML (https://github.com/DanielProano/ChessBot_ML)
   
 - Web Chess GUI and Chess Engine (https://github.com/DanielProano/Chess)
 
