@@ -1,22 +1,6 @@
-# Hey, I'm Danny!
+# Overview
 
-I'm a Purdue Computer Science & Mathematics Student with a
-
-concentration in Systems Engineering and Cybersecurity! 
-
-<br>
-
-I'm a passionate software developer who does full-stack engineering
-
-and research in reverse engineering of malware and IoT devices. 
-
-<br>
-
-I have done everything from Computer Vision to embedded design
-
-and testing with STM32s for FSAE to ML Object Detection with 
-
-Unmanned Aerial Vehicles.
+CS + Math undergrad at Purdue University (BS)
 
 
 ## Experience
