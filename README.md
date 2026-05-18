@@ -1,5 +1,8 @@
 # Hi, I'm Danny
 
+<img width="500" height="500" alt="danny" src="https://github.com/user-attachments/assets/8c5bf4a1-1091-4ccf-ae4e-f12f0d656783" />
+
+
 I do robotics, embedded development, and security applications.
 
 <br>
