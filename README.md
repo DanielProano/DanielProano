@@ -12,8 +12,6 @@ in the lab dissecting and studying malware, and creating software for
 
 rockets & racecar!
 
-<br>
-
 ## Projects
 
 - Autonomous Racecar
