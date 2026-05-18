@@ -4,23 +4,23 @@
 
 <br>
 
-I do autonomous robotics, embedded development, and security applications!
+I do autonomous robotics, embedded development, and build security applications!
 
 Most of my life is spent on the racetrack developing my autonomous racecar,
 
 in the lab dissecting and studying malware, and creating software for
 
-rockets & racecar!
+rockets & racecars!
 
 ## Projects
 
 - Autonomous Racecar
   
-- Web Portfolio & Research Website (http://dannyproano.com)
+- Portfolio & Research Website (http://dannyproano.com)
   
-- Web Zero-Knowledge Password Manager (https://github.com/DanielProano/Password)
+- Zero-Knowledge Password Manager (https://github.com/DanielProano/Password)
   
-- Web Chess GUI and Chess Engine (https://github.com/DanielProano/Chess)
+- Chess Engine & GUI (https://github.com/DanielProano/Chess)
 
 ## CTFs
 
