@@ -2,7 +2,7 @@
 
 <img width="500" height="500" alt="danny2" src="https://github.com/user-attachments/assets/f252973d-3757-4625-a8dc-0666b30814d1" />
 
-I do robotics, embedded development, and security applications.
+I do autonomous robotics, embedded development, and security applications!
 
 <br>
 
@@ -12,6 +12,7 @@ in the lab dissecting and studying malware, and creating software for
 
 rockets & racecar!
 
+<br>
 
 ## Projects
 
