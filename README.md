@@ -14,7 +14,7 @@ rockets & racecars!
 
 ## Projects
 
-- Autonomous Racecar
+- Autonomous Racecar (https://github.com/EVC-Purdue/AutonomousKart)
   
 - Portfolio & Research Website (http://dannyproano.com)
   
