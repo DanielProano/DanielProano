@@ -2,9 +2,9 @@
 
 <img width="500" height="500" alt="danny2" src="https://github.com/user-attachments/assets/f252973d-3757-4625-a8dc-0666b30814d1" />
 
-I do autonomous robotics, embedded development, and security applications!
-
 <br>
+
+I do autonomous robotics, embedded development, and security applications!
 
 Most of my life is spent on the racetrack developing my autonomous racecar,
 
