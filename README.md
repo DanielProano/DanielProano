@@ -14,13 +14,13 @@ rockets & racecars!
 
 ## Projects
 
-- Autonomous Racecar (https://github.com/EVC-Purdue/AutonomousKart)
+- [Autonomous Racecar](https://github.com/EVC-Purdue/AutonomousKart)
   
-- Portfolio & Research Website (http://dannyproano.com)
+- [Portfolio & Research Website](http://dannyproano.com)
   
-- Zero-Knowledge Password Manager (https://github.com/DanielProano/Password)
+- [Zero-Knowledge Password Manager](https://github.com/DanielProano/Password)
   
-- Chess Engine & GUI (https://github.com/DanielProano/Chess)
+- [Chess Engine & GUI](https://github.com/DanielProano/Chess)
 
 ## CTFs
 
