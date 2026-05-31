@@ -15,16 +15,6 @@ edge devices in autonomous systems. Whether developing autonomous racing vehicle
 
 vehicles, I specialize in **computer vision**, **extreme memory management**, and **optimized performance**.
 
-## Projects
-
-- [Autonomous Racecar](https://github.com/EVC-Purdue/AutonomousKart)
-  
-- [Portfolio & Research Website](http://dannyproano.com)
-  
-- [Zero-Knowledge Password Manager](https://github.com/DanielProano/Password)
-  
-- [Chess Engine & GUI](https://github.com/DanielProano/Chess)
-
 <!---
 DanielProano/DanielProano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
