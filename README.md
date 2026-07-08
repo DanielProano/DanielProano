@@ -2,18 +2,18 @@
 
 <img width="500" height="500" alt="danny2" src="https://github.com/user-attachments/assets/f252973d-3757-4625-a8dc-0666b30814d1" />
 
-## What I Build
-- **Embedded Devices** — Firmware, drones, rockets, IoT systems
-- **Autonomous Systems** — Vehicle control, perception, real-time decision making
-- **Cyber Security** — Malware analysis, reverse engineering, threat modeling
-
 ## About
 
-As an embedded security engineer, my niche is building **secure, high-performance applications** for 
+I specialize in building secure embedded systems, working on everything from autonomous racing cars to 
+3D printed RC & Autonomous Drones to rocket ships! I love working with the ARM RISC & Cortex M architecture 
+coupled with STM32 micro-controllers. I also dabble quite often with visualization solutions on 
+my embedded systems, working with high level operations such as YOLOv8 object detection to
+lightweight traditional algorithms.
 
-edge devices in autonomous systems. Whether developing autonomous racing vehicles or unmanned aerial 
+## Portfolio
 
-vehicles, I specialize in **computer vision**, **extreme memory management**, and **optimized performance**.
+Find most of my research and information on Portfolio website: [dannyproano.com](https://dannyproano.com)
+
 
 <!---
 DanielProano/DanielProano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
