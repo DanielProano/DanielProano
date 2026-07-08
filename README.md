@@ -4,17 +4,19 @@
 
 ## About
 
-<p>I specialize in building secure embedded systems, working on everything from autonomous racing cars to 
-3D printed RC & Autonomous Drones to rocket ships! I love working with the ARM RISC & Cortex M architecture 
-coupled with STM32 micro-controllers. 
-
-<p>I also dabble quite often with visualization solutions on 
-my embedded systems, working with high level operations such as YOLOv8 object detection to
-lightweight traditional algorithms.</p>
+I specialize in building secure embedded systems, working on everything from autonomous racing cars to 
+3D printed RC & Autonomous Drones to rocket ships! 
 
 ## Portfolio
 
 Find most of my research and information on Portfolio website: [dannyproano.com](https://dannyproano.com)
+
+## Projects
+
++ [1st place in Autonomous Racing Internation Karting Series](https://github.com/EVC-Purdue/AutonomousKart)
++ [Real-Time Operating System for Autonomous Drones on STM32F4](https://github.com/DanielProano/Firefly)
++ [Formally Verified Embedded Secure Bootloader](https://github.com/DanielProano/Buffalo)
++ [Bare-Metal Flight Controller for Quadcopters](https://github.com/DanielProano/Dragonfly)
 
 
 <!---
