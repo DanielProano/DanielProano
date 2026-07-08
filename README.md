@@ -7,7 +7,7 @@
 I specialize in secure embedded systems, working on <br/>
 everything from autonomous racing cars to 3D printing <br/>
 my own remote controller & autonomous drones to even <br/>
-rocket ships! 
+rocket ships! <br/>
 <br/>
 I work at the intersection of hardware <br/>
 and software, specifically on STM32 & Cortex-M <br/>
