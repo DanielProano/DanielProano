@@ -18,6 +18,8 @@ Find most of my research and information on Portfolio website: [dannyproano.com]
 + [Formally Verified Embedded Secure Bootloader](https://github.com/DanielProano/Buffalo)
 + [Bare-Metal Flight Controller for Quadcopters](https://github.com/DanielProano/Dragonfly)
 
+More on my [website](https://dannyproano.com)
+
 
 <!---
 DanielProano/DanielProano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
