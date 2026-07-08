@@ -4,7 +4,8 @@
 
 ## About
 
-I specialize in building secure embedded systems, working on everything from autonomous racing cars to 
+I specialize in building secure embedded systems, <br/>
+working on everything from autonomous racing cars to <br/>
 3D printed RC & Autonomous Drones to rocket ships! 
 
 ## Portfolio
