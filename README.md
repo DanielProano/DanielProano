@@ -5,7 +5,9 @@
 ## About
 
 I specialize in building secure embedded systems, working on everything from autonomous racing cars to 
-3D printed RC & Autonomous Drones to rocket ships! I love working with the ARM RISC & Cortex M architecture 
+3D printed RC & Autonomous Drones to rocket ships! 
+
+I love working with the ARM RISC & Cortex M architecture 
 coupled with STM32 micro-controllers. I also dabble quite often with visualization solutions on 
 my embedded systems, working with high level operations such as YOLOv8 object detection to
 lightweight traditional algorithms.
