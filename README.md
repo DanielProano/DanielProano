@@ -5,15 +5,9 @@
 ## About
 
 I specialize in secure embedded systems, working on <br/>
-everything from autonomous racing cars to 3D printing <br/>
-my own remote controller & autonomous drones to even <br/>
-rocket ships! <br/>
+everything from autonomous race cars to 3D printed <br/>
+autonomous drones to even rocket ships!
 <br/>
-I work at the intersection of hardware <br/>
-and software, specifically on STM32 & Cortex-M <br/>
-architecture, using everything from C and assembly <br/>
-to next generation tools like SPARK Ada for formal <br/>
-verification!
 
 ## Portfolio
 
