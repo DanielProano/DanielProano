@@ -16,6 +16,9 @@ Find most of my research and information on Portfolio website: [dannyproano.com]
 
 ## Autonomous Racing Kart Co-lead
 
+https://github.com/user-attachments/assets/30a9150d-5237-475e-9ae5-a39bc6779516
+
+https://github.com/user-attachments/assets/30a9150d-5237-475e-9ae5-a39bc6779516
 
 I co-led the software team for Autonomous Racing Kart. In the summer of 2026,
 we won the International Autonomous Collegiate Series against 8 other Autonomous
