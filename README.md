@@ -1,3 +1,5 @@
+
+
 # Hi, I'm Danny!
 
 <img width="500" height="500" alt="danny2" src="https://github.com/user-attachments/assets/f252973d-3757-4625-a8dc-0666b30814d1" />
@@ -18,7 +20,7 @@ Find most of my research and information on Portfolio website: [dannyproano.com]
 
 https://github.com/user-attachments/assets/30a9150d-5237-475e-9ae5-a39bc6779516
 
-https://github.com/user-attachments/assets/30a9150d-5237-475e-9ae5-a39bc6779516
+https://github.com/user-attachments/assets/753568f3-867e-4491-ae41-3f828eee08ef
 
 I co-led the software team for Autonomous Racing Kart. In the summer of 2026,
 we won the International Autonomous Collegiate Series against 8 other Autonomous
