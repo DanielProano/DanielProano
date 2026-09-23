@@ -6,10 +6,10 @@
 
 ## About
 
-I specialize in embedded system design, developing <\br>
-low level systems for racecars, drones, and rocket ships! <\br>
-I have done everything from flight controllers to motor <\br>
-controllers to advanced NAND logging systems! <\br>
+I specialize in embedded system design, developing <br/>
+low level systems for racecars, drones, and rocket ships! <br/>
+I have done everything from flight controllers to motor <br/>
+controllers to advanced NAND logging systems! <br/>
 I also like to work on embedded security!
 
 ## Portfolio
@@ -28,22 +28,22 @@ Racecars! <br/>
 
 ## Autonomous Drone
 
-I spent my entire summer developing an autonomous drone, using STM32s
+I spent my entire summer developing an autonomous drone, using STM32s <br/>
 and ESP32s to host the following software stack:
 
 ### Hand Made Real Time OS
 
-I could have used FreeRTOS for my drone, but I wanted to go deeper. 
-I wanted to own everything. So I made my own Real Time OS, doing it 
-the old fashioned way by traversing datasheets for the bytes and bits 
-I needed to enable my drone: <\br>
+I could have used FreeRTOS for my drone, but I wanted to go deeper. <br/>
+I wanted to own everything. So I made my own Real Time OS, doing it <br/>
+the old fashioned way by traversing datasheets for the bytes and bits <br/>
+I needed to enable my drone: <br/>
 
 + https://github.com/DanielProano/Firefly
 
 ### Custom Flight Controller
 
 I made a flight controller that takes quaternions from an IMU and altitude
-data from a barometer to create a stabilization PID loop for my drone: <\br>
+data from a barometer to create a stabilization PID loop for my drone: <br/>
 
 + https://github.com/DanielProano/Dragonfly
 
