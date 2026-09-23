@@ -62,7 +62,7 @@ it does:
 I'm the lead of motor controller, where I am currently leading the effort 
 to develop our own stack for a 60 Amp motor controller in C++:
 
-+ [https://github.com/EVC-Purdue/MotorController
++ https://github.com/EVC-Purdue/MotorController
 
 
 <!---
