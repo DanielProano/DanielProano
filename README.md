@@ -42,23 +42,23 @@ I needed to enable my drone: <br/>
 
 ### Custom Flight Controller
 
-I made a flight controller that takes quaternions from an IMU and altitude
+I made a flight controller that takes quaternions from an IMU and altitude <br/>
 data from a barometer to create a stabilization PID loop for my drone: <br/>
 
 + https://github.com/DanielProano/Dragonfly
 
 ### A secure bootloader in SPARK Ada
 
-I wanted to experiment with SPARK Ada, a formally verified language that
-enables its user to prove that their function does exactly what they think 
+I wanted to experiment with SPARK Ada, a formally verified language that <br/>
+enables its user to prove that their function does exactly what they think <br/>
 it does:
 
 + https://github.com/DanielProano/Buffalo
 
 ## Motor Controller
 
-I'm the lead of motor controller, where I am currently leading the effort 
-to develop our own stack for a 60 Amp motor controller in C++:
+I'm the lead of motor controller, where I am currently leading the effort <br/>
+to develop our own stack for a 60 Amp motor controller in C++: <br/>
 
 + https://github.com/EVC-Purdue/MotorController
 
