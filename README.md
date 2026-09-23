@@ -18,8 +18,6 @@ Find most of my research and information on Portfolio website: [dannyproano.com]
 
 ## Autonomous Racing Kart Co-lead
 
-https://github.com/user-attachments/assets/30a9150d-5237-475e-9ae5-a39bc6779516
-
 https://github.com/user-attachments/assets/753568f3-867e-4491-ae41-3f828eee08ef
 
 I co-led the software team for Autonomous Racing Kart. In the summer of 2026,
