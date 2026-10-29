@@ -12,10 +12,6 @@ I have done everything from flight controllers to motor <br/>
 controllers to advanced NAND logging systems! <br/>
 I also like to work on embedded security!
 
-## Portfolio
-
-Find most of my research and information on Portfolio website: [dannyproano.com](https://dannyproano.com)
-
 ## Autonomous Racing Kart Co-lead
 
 https://github.com/user-attachments/assets/753568f3-867e-4491-ae41-3f828eee08ef
